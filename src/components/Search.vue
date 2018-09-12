@@ -19,7 +19,7 @@
 <script>
   import { mapState, mapMutations, mapGetters } from 'vuex'
   export default {
-    name: 'app',
+    name: 'search',
 
     data () {
       return {
